@@ -25,3 +25,48 @@ Application web développée dans le cadre du TP Master 2 DevOps.
 - Docker Compose 
 
 - GitHub Actions 
+
+## Avancement 
+
+ 
+
+Première mise à jour du projet. 
+
+Ton README aura donc quelque chose comme : 
+
+# Projet DevOps 
+
+ 
+
+Application web développée dans le cadre du TP Master 2 DevOps. 
+
+ 
+
+## Technologies 
+
+ 
+
+- Python 
+
+- Flask 
+
+- Pytest 
+
+- Git 
+
+- GitHub 
+
+- Docker 
+
+- Docker Compose 
+
+- GitHub Actions 
+
+ 
+
+## Avancement 
+
+ 
+
+Première mise à jour du projet. 
+
